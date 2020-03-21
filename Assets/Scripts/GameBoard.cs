@@ -547,7 +547,9 @@ public class GameBoard : MonoBehaviour
                 {
                     if(b.IsKaboom())
                     {
-                        //gameover ;)
+                        GameObject.Find("GameOverText").SetActive(true);
+                        GetComponent<TouchController>().enabled = false;
+                        Destroy(gameObject);
                     }
                 }
             }
