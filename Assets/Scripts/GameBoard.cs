@@ -100,6 +100,14 @@ public class GameBoard : MonoBehaviour
         distances = distances.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
         Tuple<int, int> index = indexToWorldCoordinate.FirstOrDefault(x => x.Value.Equals(distances.ElementAt(0).Key.transform.position)).Key;
         selectedTiles[1] = Tuple.Create(index.Item1, index.Item2, distances.ElementAt(0).Key);
+
+        if (topHex != null) distances[topHex] = Vector2.Distance(topHex.transform.position, selectedTiles[1].Item3.transform.position);
+        if (bottomHex != null) distances[bottomHex] = Vector2.Distance(bottomHex.transform.position, selectedTiles[1].Item3.transform.position);
+        if (rightHex != null) distances[rightHex] = Vector2.Distance(rightHex.transform.position, selectedTiles[1].Item3.transform.position);
+        if (leftHex != null) distances[leftHex] = Vector2.Distance(leftHex.transform.position, selectedTiles[1].Item3.transform.position);
+        if (rightHex2 != null) distances[rightHex2] = Vector2.Distance(rightHex2.transform.position, selectedTiles[1].Item3.transform.position);
+        if (leftHex2 != null) distances[leftHex2] = Vector2.Distance(leftHex2.transform.position, selectedTiles[1].Item3.transform.position);
+        distances = distances.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
         index = indexToWorldCoordinate.FirstOrDefault(x => x.Value.Equals(distances.ElementAt(1).Key.transform.position)).Key;
         selectedTiles[2] = Tuple.Create(index.Item1, index.Item2, distances.ElementAt(1).Key);
 
