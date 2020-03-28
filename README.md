@@ -20,11 +20,22 @@ To build:
 
 ## License
 
-This project is licenced under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license. See LICENSE file.
+This project is licenced under the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) license. See LICENSE file.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/25724155/77219584-64222c80-6b48-11ea-98cc-3a94dc99c6c2.jpeg)
-![image](https://user-images.githubusercontent.com/25724155/77219585-64bac300-6b48-11ea-80ee-dca68f1ed049.jpeg)
-![image](https://user-images.githubusercontent.com/25724155/77219587-65ebf000-6b48-11ea-8585-c64c27e826ff.jpeg)
-![image](https://user-images.githubusercontent.com/25724155/77219588-671d1d00-6b48-11ea-884a-05fa7ce90f79.jpeg)
-![image](https://user-images.githubusercontent.com/25724155/77219589-684e4a00-6b48-11ea-8547-aa662c96db82.jpeg)
+### Click the images for full size.
+<a href="https://user-images.githubusercontent.com/25724155/77219584-64222c80-6b48-11ea-98cc-3a94dc99c6c2.jpeg">
+	<img src="https://user-images.githubusercontent.com/25724155/77219584-64222c80-6b48-11ea-98cc-3a94dc99c6c2.jpeg" width="19%">
+</a>
+<a href="https://user-images.githubusercontent.com/25724155/77219585-64bac300-6b48-11ea-80ee-dca68f1ed049.jpeg">
+	<img src="https://user-images.githubusercontent.com/25724155/77219585-64bac300-6b48-11ea-80ee-dca68f1ed049.jpeg" width="19%">
+</a>
+<a href="https://user-images.githubusercontent.com/25724155/77219587-65ebf000-6b48-11ea-8585-c64c27e826ff.jpeg">
+	<img src="https://user-images.githubusercontent.com/25724155/77219587-65ebf000-6b48-11ea-8585-c64c27e826ff.jpeg" width="19%">
+</a>
+<a href="https://user-images.githubusercontent.com/25724155/77219588-671d1d00-6b48-11ea-884a-05fa7ce90f79.jpeg">
+	<img src="https://user-images.githubusercontent.com/25724155/77219588-671d1d00-6b48-11ea-884a-05fa7ce90f79.jpeg" width="19%">
+</a>
+<a href="https://user-images.githubusercontent.com/25724155/77219589-684e4a00-6b48-11ea-8547-aa662c96db82.jpeg">
+	<img src="https://user-images.githubusercontent.com/25724155/77219589-684e4a00-6b48-11ea-8547-aa662c96db82.jpeg" width="19%">
+</a>
