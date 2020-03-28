@@ -9,7 +9,7 @@ Hexplosions is a Hexic inspired HexFall clone written in C# using Unity Engine. 
 
 ## How to build
 
-Visual Studio 2019 and Unity 2019.2.2f1 was in writing of this project. You will receive less problems if you use those. 
+Visual Studio 2019 and Unity 2019.2.2f1 was used in writing of this project. You will receive less problems if you use those. 
 
 To build:
 
